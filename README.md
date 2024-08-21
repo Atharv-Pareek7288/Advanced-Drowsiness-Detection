@@ -22,7 +22,7 @@ sh Copy code git clone https://github.com/Atharv-Pareek7288/Advanced-Drowsiness-
 
 Run the system:
 
-sh Copy code python drowsiness_detection.py Usage Simply run the script and the system will start capturing video from your webcam. It will continuously monitor facial landmarks for signs of drowsiness, displaying real-time feedback and issuing alerts if drowsiness is detected.
+sh Copy code python Advanced-Drowsiness-Detection.py Usage Simply run the script and the system will start capturing video from your webcam. It will continuously monitor facial landmarks for signs of drowsiness, displaying real-time feedback and issuing alerts if drowsiness is detected.
 
 Customization The system is highly customizable. You can adjust thresholds, change the detection models, and integrate additional features like sound alerts or logging for long-term monitoring.
 
